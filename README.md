@@ -1,7 +1,7 @@
 ### Hello there...
 
 #### Active projects
-* MVM | Just an idea currently
+* MVM ( Martini VM ) | Just an idea currently
      * [Github / Source Code](https://github.com/Martinvlba/mvm_manifest)
 #### Archived projects
 * Evolinx / Linux
